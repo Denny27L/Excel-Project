@@ -1,4 +1,4 @@
-# My-Excel-Project
+# My-Excel-Projects
 1. Project: Education in the Czech Republic by regions - analysis in Excel
 
 2. Project: Unemployment in the Czech Republic by regions - analysis in Excel
